@@ -4,7 +4,7 @@
   "description": "Gulpjs Workflow",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ramadanko/workflows.git"
+    "url": "https://github.com/ramadanko/Gulp-workflow.git"
   },
   "author": "Mohammed Ramadan",
   "devDependencies": {
